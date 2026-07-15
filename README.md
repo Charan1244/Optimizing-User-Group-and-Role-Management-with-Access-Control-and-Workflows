@@ -5,6 +5,7 @@ Optimizing User, Group, and Role Management with Access Control and Workflows
 ServiceNow Status Internship License
 
 📌 Project Overview
+
 This project was developed as part of the SmartBridge ServiceNow System Administration Internship 2026.
 
 The application implements a secure Role-Based Access Control (RBAC) system using the ServiceNow Developer Instance. It enables administrators to manage users, groups, and roles while automating project workflows through Flow Designer and enforcing security using Access Control Lists (ACLs).
@@ -12,6 +13,7 @@ The application implements a secure Role-Based Access Control (RBAC) system usin
 The solution improves governance, security, accountability, and operational efficiency by ensuring that every user has appropriate access based on their assigned role.
 
 🎯 Objectives
+
 Implement User Management
 Create and Manage Groups
 Configure Custom Roles
@@ -23,6 +25,7 @@ Implement Approval Process
 Improve Security and Governance
 
 🚀 Features
+
 User Creation and Management
 Group Management
 Role Management
@@ -39,6 +42,7 @@ Email Notifications
 Audit Logging
 
 🔄 Workflow
+
 Administrator
         │
         ▼
@@ -72,5 +76,6 @@ Approval Process
 Project Completion
 
 🙏 Acknowledgements
+
 We sincerely thank SmartBridge, ServiceNow, our faculty mentor , and our internship mentors @Sushmaganji mam for their continuous guidance and support throughout the successful completion of this project.
 
