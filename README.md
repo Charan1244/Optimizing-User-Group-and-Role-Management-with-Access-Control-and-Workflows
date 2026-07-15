@@ -41,39 +41,6 @@ Secure Record-Level Access
 Email Notifications
 Audit Logging
 
-🔄 Workflow
-
-Administrator
-        │
-        ▼
-Create Users
-        │
-        ▼
-Create Groups
-        │
-        ▼
-Create Roles
-        │
-        ▼
-Assign Roles
-        │
-        ▼
-Create Projects
-        │
-        ▼
-Assign Tasks
-        │
-        ▼
-ACL Validation
-        │
-        ▼
-Flow Designer
-        │
-        ▼
-Approval Process
-        │
-        ▼
-Project Completion
 
 🙏 Acknowledgements
 
