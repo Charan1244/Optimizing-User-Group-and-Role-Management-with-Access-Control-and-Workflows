@@ -1,4 +1,4 @@
-# Optimizing-User-Group-and-Role-Management-with-Access-Control-and-Workflows-
+# Optimizing-User-Group-and-Role-Management-with-Access-Control-and-Workflows
 Service Now virtual internship by Smart Bridge
 
 Optimizing User, Group, and Role Management with Access Control and Workflows
