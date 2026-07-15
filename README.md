@@ -26,20 +26,20 @@ The solution improves governance, security, accountability, and operational effi
 
 ## 🚀 Features
 
-User Creation and Management
-Group Management
-Role Management
-Custom Project Table
-Custom Task Table
-Access Control Lists (ACL)
-Role-Based Access Control (RBAC)
-Flow Designer Automation
-Automatic Task Assignment
-Approval Workflow
-Task Status Tracking
-Secure Record-Level Access
-Email Notifications
-Audit Logging
+- User Creation and Management
+- Group Management
+- Role Management
+- Custom Project Table
+- Custom Task Table
+- Access Control Lists (ACL)
+- Role-Based Access Control (RBAC)
+- Flow Designer Automation
+- Automatic Task Assignment
+- Approval Workflow
+- Task Status Tracking
+- Secure Record-Level Access
+- Email Notifications
+- Audit Logging
 
 
 ## 🙏 Acknowledgements
