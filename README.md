@@ -1,2 +1,2 @@
 # Optimizing-User-Group-and-Role-Management-with-Access-Control-and-Workflows-
-Service Now virtual internship by SMARTBRIDGE
+Service Now virtual internship by Smart Bridge
